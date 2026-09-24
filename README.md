@@ -1,5 +1,5 @@
 # CR Unblocker for iOS
-Routes specific Crunchyroll Traffic to trick it into thinking you are in the US without any drawbacks. Based on the [CR-Unblocker](https://github.com/MeGaNeKoS/CR-Unblocker) Firefox Extension.
+Routes specific Crunchyroll Traffic to trick the app into thinking you are in the US without any drawbacks. Based on the [CR-Unblocker](https://github.com/MeGaNeKoS/CR-Unblocker) Firefox Extension.
 
 # How to use
 **This is a profile for [sing-box](https://apps.apple.com/us/app/sing-box-mt/id6785326793)**. 
