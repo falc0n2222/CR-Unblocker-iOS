@@ -16,9 +16,9 @@
           "static.crunchyroll.com",
           "metrics.crunchyroll.com",
           "eec.crunchyroll.com",
-					"beta-api.crunchyroll.com",
+		  "beta-api.crunchyroll.com",
           "cr-play-service.prd.crunchyroll.com",
-					"imgsrv.crunchyroll.com"
+		  "imgsrv.crunchyroll.com"
         ],
         "server": "local"
       },
